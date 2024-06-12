@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+<head>
+
+
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+
+    @if (TempData["Save"] != null)
+    {
+        <script type="text/javascript">
+
+                        var message = '@TempData["Save"]';
+                        Swal.fire("Good job!", message, "success");
+        </script>
+    }
+    @if (TempData["Update"] != null)
+    {
+        <script type="text/javascript">
+                        var message = '@TempData["Update"]';
+                        Swal.fire("Good job!", message, "update");
+        </script>
+    }
+    @if (TempData["Delete"] != null)
+    {
+        <script type="text/javascript">
+
+                        var message = '@TempData["Delete"]';
+                        Swal.fire("Good job!", message, "Delete");
+
+        </script>
+    }
+</head>
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-0">
+            <div class="card shadow-lg border-0 rounded-lg mt-5 ">
+                <div class="card-header bg-danger"><h3 class="text-center font-weight-light my-4  text-white">Category Form</h3></div>
+                <div class="card-body">
+                    @Html.Partial("~/Views/Category/CategoryView.cshtml")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-0">
+            <div class="card shadow-lg border-0 rounded-lg mt-5 ">
+                <div class="card-header bg-danger"><h3 class="text-center font-weight-light my-4  text-white">Category Report</h3></div>
+                <div class="card-body">
+
+                    @Html.Action("CategoryReport")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

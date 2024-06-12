@@ -1,0 +1,474 @@
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll.config
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.pdb
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csc.exe
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csc.exe.config
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csc.rsp
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csi.exe
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csi.exe.config
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csi.rsp
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.AppContext.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Collections.Immutable.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Console.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Globalization.Calendars.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Net.Http.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Net.Sockets.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.ValueTuple.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\vbc.exe
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\vbc.exe.config
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\vbc.rsp
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe.config
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Antlr3.Runtime.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Newtonsoft.Json.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Helpers.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Mvc.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Optimization.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Razor.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\WebGrease.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Helpers.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Mvc.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Optimization.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Razor.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Newtonsoft.Json.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Antlr3.Runtime.pdb
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.AssemblyReference.cache
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CoreCompileInputs.cache
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CopyComplete
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.dll
+D:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.pdb
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll.config
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.pdb
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csc.exe
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csc.exe.config
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csc.rsp
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csi.exe
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csi.exe.config
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\csi.rsp
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.AppContext.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Console.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Net.Http.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Net.Sockets.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.ValueTuple.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\vbc.exe
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\vbc.exe.config
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\vbc.rsp
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Antlr3.Runtime.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Newtonsoft.Json.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Helpers.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Mvc.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Optimization.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Razor.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\WebGrease.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Helpers.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Mvc.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Optimization.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.Razor.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Newtonsoft.Json.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Antlr3.Runtime.pdb
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.AssemblyReference.cache
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CoreCompileInputs.cache
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CopyComplete
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.dll
+C:\Machine Test\NimapInfotechMachineTest\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.pdb
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll.config
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.pdb
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.exe
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.exe.config
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.rsp
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.exe
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.exe.config
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.rsp
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.AppContext.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Console.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Net.Http.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.exe
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.exe.config
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.rsp
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\Antlr3.Runtime.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\Newtonsoft.Json.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Helpers.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Mvc.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Optimization.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Razor.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\WebGrease.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Helpers.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Mvc.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Optimization.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Razor.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\Newtonsoft.Json.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\Antlr3.Runtime.pdb
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.AssemblyReference.cache
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CoreCompileInputs.cache
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CopyComplete
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.dll
+C:\Users\PMS\Documents\GitHub\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.pdb
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll.config
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.pdb
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.exe
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.exe.config
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.rsp
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.exe
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.exe.config
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.rsp
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.AppContext.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Collections.Immutable.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Console.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Globalization.Calendars.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Net.Http.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Net.Sockets.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.ValueTuple.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.exe
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.exe.config
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.rsp
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe.config
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\Antlr3.Runtime.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.Web.Infrastructure.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\Newtonsoft.Json.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Helpers.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Mvc.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Optimization.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Razor.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\WebGrease.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Helpers.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Mvc.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Optimization.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Razor.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\Newtonsoft.Json.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\Antlr3.Runtime.pdb
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.AssemblyReference.cache
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CoreCompileInputs.cache
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CopyComplete
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.dll
+D:\Prashant Girase\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.pdb
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll.config
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.pdb
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.exe
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.exe.config
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.rsp
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.exe
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.exe.config
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.rsp
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.AppContext.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Console.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Net.Http.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.exe
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.exe.config
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.rsp
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\Antlr3.Runtime.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\Newtonsoft.Json.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Helpers.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Mvc.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Optimization.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Razor.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\WebGrease.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Helpers.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Mvc.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Optimization.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Razor.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\Newtonsoft.Json.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\Antlr3.Runtime.pdb
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CopyComplete
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.dll
+C:\Users\victo\OneDrive\Desktop\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.pdb
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll.config
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\NimapInfotechMachineTest.pdb
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.exe
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.exe.config
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csc.rsp
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.exe
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.exe.config
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\csi.rsp
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.AppContext.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Console.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Net.Http.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Net.Sockets.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.exe
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.exe.config
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\vbc.rsp
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\Antlr3.Runtime.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\Newtonsoft.Json.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Helpers.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Mvc.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Optimization.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Razor.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\WebGrease.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Helpers.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Mvc.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Optimization.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.Razor.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\Newtonsoft.Json.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\Antlr3.Runtime.pdb
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.AssemblyReference.cache
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.csproj.CopyComplete
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.dll
+C:\Users\COMPUTER POINT\Downloads\Machine_Test\NimapInfotechMachineTest\obj\Debug\NimapInfotechMachineTest.pdb
